@@ -83,10 +83,10 @@
                         <a class="page-scroll" href="#about">About</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#process">Process</a>
+                        <a class="page-scroll" href="#process">Why choose us</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#work">Work</a>
+                        <a class="page-scroll" href="#work">Portfolio</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
@@ -204,9 +204,9 @@
         <div class="container">
             <div class="row text-center">
                 <div class="col-lg-12 wow fadeIn">
-                    <h2>Our Process</h2>
+                    <h2>Why choose us</h2>
                     <hr class="colored">
-                    <p>Here is an overview of how we approach each new project.</p>
+                    <p>Reliable, high performance software, built on a solid platform, with fast turn-around times.</p>
                 </div>
             </div>
             <div class="row content-row">
@@ -217,12 +217,12 @@
                             <i class="fa fa-clipboard"></i>
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">Plan</h3>
+                            <h3 class="media-heading">Fast turn-around</h3>
                             <ul>
-                                <li>Discuss specifics with client</li>
-                                <li>Identify existing APIs  </li>
-                                <li>Specify architecture </li>
-                                <li>Review, discuss, review </li>
+                                <li>Your design or ours</li>
+                                <li>Start with Orinoco APIs</li>
+                                <li>Add any additional modules</li>
+                                <li>Fast, accurate estimates</li>
                             </ul>
                         </div>
                     </div>
@@ -234,12 +234,12 @@
                             <i class="fa fa-pencil"></i>
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">Create</h3>
+                            <h3 class="media-heading">All devices</h3>
                             <ul>
-                                <li>Build prototype</li>
-                                <li>Gather client feedback</li>
-                                <li>Modify back-office app</li>
-                                <li>Test complete system</li>
+                                <li>HTML5, works on all devices</li>
+                                <li>Optimized, fully SEO compatible</li>
+                                <li>Hardware integration and IOT</li>
+                                <li>Native apps also available</li>
                             </ul>
                         </div>
                     </div>
@@ -251,12 +251,12 @@
                             <i class="fa fa-rocket"></i>
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">Launch</h3>
+                            <h3 class="media-heading">USA Team</h3>
                             <ul>
-                                <li>Deploy final API</li>
-                                <li>Market product launch</li>
-                                <li>Collect UX data</li>
-                                <li>Quarterly maintenence</li>
+                                <li>Right here in Silicon Valley</li>
+                                <li>Our hosting services or yours </li>
+                                <li>Post launch support/maintenance</li>
+                                <li>New features/add-ons as needed </li>
                             </ul>
                         </div>
                     </div>
