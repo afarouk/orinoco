@@ -2,11 +2,15 @@
 <html lang="en">
 
 <head>
-
+  <!-- Mobile Specific Metas
+  ================================================== -->
     <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="author" content="Orinoco Inc.">
 
     <title>Orinoco Inc.</title>
 
@@ -53,7 +57,24 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
+    <!-- Social, app icon, etc. -->
+    <!-- og meta tags -->
+ <meta property="og:type"               content="article" />
+ <meta property="og:title"              content="Mobile engagement without mobile apps"/>
+ <meta property="og:description"        content="Millennials or otherwise, tech-savvy or not, Orinoco can help you reach anyone with a smartphone."/>
+ <meta property="og:image"              content="img/ogImage.png"/>
 
+ <!-- twitter meta tags -->
+ <meta name="twitter:card"              content=" "/>
+ <meta name="twitter:site"              content=" "/>
+ <meta name="twitter:creator"           content="@OrinocoInc"/>
+ <meta name="twitter:title"             content="Moble engagement without mobile apps"/>
+ <meta name="twitter:description"       content="Millennials or otherwise, tech-savvy or not, Orinoco can help you reach anyone with a smartphone."/>
+
+ <meta name="twitter:image"             content="img/ogImage.png"/>
+
+ <meta name="apple-mobile-web-app-title" content="Orinco Inc">
+ <link rel="apple-touch-icon" href="img/orinoco_appIcon.png">
 </head>
 
 
