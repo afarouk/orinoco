@@ -777,7 +777,7 @@
                 </div>
                 <div class="col-md-4 contact-details">
                     <h4><i class="fa fa-envelope"></i> Email</h4>
-                    <p><a href="mailto:contact@orinoco.us">contact@orinoco.us</a>
+                    <p><a href="mailto:contact.orinoco@gmail.com">contact.orinoco@gmail.com</a>
                     </p>
                 </div>
             </div>
