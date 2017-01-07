@@ -227,7 +227,7 @@
                 <div class="col-lg-12 wow fadeIn">
                     <h2>Why choose us</h2>
                     <hr class="colored">
-                    <p>Reliable, high performance software, built on a solid platform, with fast turn-around times.</p>
+                    <p>Reliable, high performance software, built on a solid platform, backed by years of experience.</p>
                 </div>
             </div>
             <div class="row content-row">
@@ -240,10 +240,10 @@
                         <div class="media-body">
                             <h3 class="media-heading">Fast turn-around</h3>
                             <ul>
+                                <li>Fast, accurate estimates</li>
                                 <li>Your design or ours</li>
                                 <li>Start with Orinoco APIs</li>
                                 <li>Add any additional modules</li>
-                                <li>Fast, accurate estimates</li>
                             </ul>
                         </div>
                     </div>
@@ -291,7 +291,7 @@
         <div class="container text-center wow fadeIn">
             <h2>Our Work</h2>
             <hr class="colored">
-            <p>Here are some examples of our work.</p>
+            <p>Our current projects</p>
         </div>
     </section>
 
@@ -817,7 +817,7 @@
                         <div class="col-md-8 col-md-offset-2">
                             <h2>Backoffice App</h2>
                             <hr class="colored">
-                            <p>The Backoffice App is part of the Orinoco Platform. Any client using Orinoco can manage all their features, content, customer database etc. using their account via the free backoffice app. </p>
+                            <p>The backoffice app is part of the Orinoco Platform. Via this app, any Orinoco client can manage all their features, content, customer database etc. from anywhere, at anytime. A web version is also available. </p>
                         </div>
                         <div class="col-md-8 col-md-offset-2">
                             <div class="device-mockup ipad_air_2 landscape gold">
