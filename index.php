@@ -163,7 +163,7 @@
               						<img src="img/features_icon.png" class="center-block img-responsive"></img>
               					</div>
                         <h3>Full-featured</h3>
-                         Today's smartphone users expect a lot and we are ready to impress them. Our library of features will get you started right away, just pick what you need. Don't see what you need? Just let us know.
+                         Today's smartphone users expect a lot, and we are ready to impress them. Our library of features will get you started right away, just pick what you need. Don't see what you need? Just let us know.
                         <p>
                         </p>
                     </div>
