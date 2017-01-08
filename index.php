@@ -295,7 +295,7 @@
         <div class="container text-center wow fadeIn">
             <h2>Our Work</h2>
             <hr class="colored">
-            <p>Our current projects</p>
+            <p>Following is a list of some of the projects we are currently working on.</p>
         </div>
     </section>
 
