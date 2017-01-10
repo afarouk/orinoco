@@ -617,6 +617,38 @@ aside.cta-quote span.quote {
 .services .media .media-body ul li {
   margin-bottom: 10px;
 }
+
+
+@media only screen and (max-width: 300px) {
+    .h1, h1 {
+        font-size: 22px;
+    }
+    footer.footer p {
+        font-size: 14px !important;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    header .brand-name {
+      font-size: 20px !important;
+    }
+    header .brand-name-subtext {
+      font-size: 20px;
+    }
+    footer.footer p {
+        font-size: 14px !important;
+    }
+}
+
+@media only screen and (max-width: 440px) {
+    header .brand-name {
+      font-size: 27px;
+    }
+    header .brand-name-subtext {
+      font-size: 24px;
+    }
+}
+
 @media (min-width: 390px) {
   .services .media .media-body {
     min-width: 260px;
@@ -924,23 +956,7 @@ aside.cta-quote span.quote {
   bottom: 0px;
 }
 
-@media only screen and (max-width: 320px) {
-    header .brand-name {
-      font-size: 20px;
-    }
-    header .brand-name-subtext {
-      font-size: 20px;
-    }
-}
 
-@media only screen and (max-width: 440px) {
-    header .brand-name {
-      font-size: 29px;
-    }
-    header .brand-name-subtext {
-      font-size: 24px;
-    }
-}
 
 /*  #Mobile (Portrait) - Note: Design for a width of 320px */
 @media only screen and (max-width: 767px) {
