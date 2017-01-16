@@ -11,9 +11,15 @@
                 <!-- Service Item 1 -->
                 <div class="col-md-4 wow fadeIn" data-wow-delay=".2s">
                     <div class="media">
+                        <!--
                         <div class="pull-left">
                             <i class="fa fa-clipboard"></i>
                         </div>
+                        -->
+                        <div class="pull-left">
+                            <img src="img/fast_turnaround_icon.png" width=70px>
+                        </div>
+
                         <div class="media-body">
                             <h3 class="media-heading">Fast turn-around</h3>
                             <ul>
@@ -28,9 +34,9 @@
                 <!-- Service Item 2 -->
                 <div class="col-md-4 wow fadeIn" data-wow-delay=".4s">
                     <div class="media">
-                        <div class="pull-left">
-                            <i class="fa fa-pencil"></i>
-                        </div>
+                       <div class="pull-left">
+                          <img src="img/all_devices_icon.png" width=70px>
+                       </div>
                         <div class="media-body">
                             <h3 class="media-heading">All devices</h3>
                             <ul>
@@ -46,7 +52,7 @@
                 <div class="col-md-4 wow fadeIn" data-wow-delay=".6s">
                     <div class="media">
                         <div class="pull-left">
-                            <i class="fa fa-rocket"></i>
+                            <img src="img/made_in_usa_icon.png" width=70px>
                         </div>
                         <div class="media-body">
                             <h3 class="media-heading">USA Team</h3>
