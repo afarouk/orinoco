@@ -95,7 +95,7 @@
                     <div class="project-details">
                         <span class="project-name">GhostRunner</span>
                         <span class="project-description">Matchup baseball by invitation</span>
-                        <span class="project-description">(planning phase)</span>
+                        <span class="project-description">(in development)</span>
                         <hr class="colored">
                         <a href="#portfolioModal4" data-toggle="modal" class="btn btn-outline-light">View Details <i class="fa fa-long-arrow-right fa-fw"></i></a>
                     </div>

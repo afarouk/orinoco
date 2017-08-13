@@ -282,7 +282,7 @@
                                 </li>
                             </ul>
                             <p>
-                            <a target="_blank" href="http://matchupbaseball.com">http://matchupbaseball.com</a>
+                            <a target="_blank" href="http://ghostrunner.net">http://ghostrunner.net</a>
                             </p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
