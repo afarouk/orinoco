@@ -29,7 +29,7 @@
         </div>
         <div class="row copyright">
             <div class="col-lg-12">
-                <p class="small">&copy; 2016 Orinoco Inc.</p>
+                <p class="small">&copy; 2017 Orinoco Inc.</p>
             </div>
         </div>
     </div>

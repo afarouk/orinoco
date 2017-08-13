@@ -73,9 +73,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2">
-                            <h2>Chalkboards</h2>
+                            <h2>Chalkboards POS</h2>
                             <hr class="colored">
-                            <p>Businesses of all sizes can reach their customers on smartphones using Chalkboards. Built-in menu/catalog, loyalty card and trivia games are ideal for businesses wanting to increase sales.</p>
+                            <p> Chalkboards is a new point-of-sale system with built-in customer engagement and a self-service option. Send out promotions by email/text or use a digital cardless loyalty program, to increase sales and increase repeat visits. </p>
                         </div>
                         <div class="col-md-8 col-md-offset-2">
                             <div class="device-mockup macbook portrait black">

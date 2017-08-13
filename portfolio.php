@@ -16,7 +16,7 @@
                 <div class="col-md-5 col-md-push-7">
                     <div class="project-details">
                         <span class="project-name">Chalkboards</span>
-                        <span class="project-description">A B2C marketing platform</span>
+                        <span class="project-description">Self-service POS with marketing</span>
                         <hr class="colored">
                         <a href="#portfolioModal1" data-toggle="modal" class="btn btn-outline-light">View Details <i class="fa fa-long-arrow-right fa-fw"></i></a>
                     </div>
