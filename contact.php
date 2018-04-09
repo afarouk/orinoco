@@ -4,7 +4,7 @@
             <div class="col-lg-12 text-center">
                 <h2>Contact Us</h2>
                 <hr class="colored">
-                <p>Please tell us about your next project and we will let you know what we can do to help you.</p>
+                <p>Please tell us about your project. We are ready to help.</p>
             </div>
         </div>
         <div class="row content-row">
