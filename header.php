@@ -1,7 +1,7 @@
 <header style="background-image: url('img/backgrounds/bg-header.jpg');">
     <div class="intro-content">
         <!-- <img src="img/profile.svg" class="img-responsive img-centered" alt=""> -->
-        <div class="brand-name">Mobile Engagement Without Apps</div>
+        <div class="brand-name">Mobile Without Apps</div>
         <hr class="colored">
         <div class="brand-name-subtext">The Orinoco Platform</div>
     </div>

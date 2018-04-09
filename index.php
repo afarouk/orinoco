@@ -64,7 +64,7 @@
     <!-- Social, app icon, etc. -->
     <!-- og meta tags -->
  <meta property="og:type"               content="article" />
- <meta property="og:title"              content="Mobile engagement without mobile apps"/>
+ <meta property="og:title"              content="Mobile Without Apps"/>
  <meta property="og:description"        content="Millennials or otherwise, tech-savvy or not, Orinoco can help you reach anyone with a smartphone."/>
  <meta property="og:image"              content="img/ogImage.png"/>
 
@@ -72,7 +72,7 @@
  <meta name="twitter:card"              content=" "/>
  <meta name="twitter:site"              content=" "/>
  <meta name="twitter:creator"           content="@OrinocoInc"/>
- <meta name="twitter:title"             content="Moble engagement without mobile apps"/>
+ <meta name="twitter:title"             content="Moble Without Apps"/>
  <meta name="twitter:description"       content="Millennials or otherwise, tech-savvy or not, Orinoco can help you reach anyone with a smartphone."/>
 
  <meta name="twitter:image"             content="img/ogImage.png"/>
@@ -88,29 +88,29 @@
 
     <!-- Navigation -->
     <!-- NOTE: .navbar-default and .navbar-inverse are both supported with this theme. -->
-    
-    
+
+
     <?php include 'menu.php';?>
 
     <!-- Header -->
-    
+
     <?php include 'header.php';?>
 
     <!-- About Section -->
-    
+
     <?php include 'about.php';?>
-    
+
 
     <!-- Services Section -->
-    
+
     <?php include 'services.php';?>
-    
+
 
     <!-- Portfolio Carousel -->
-    
+
     <?php include 'portfolio.php';?>
-    
-    
+
+
 
     <!-- Portfolio Grid Section
     <section>
@@ -415,22 +415,22 @@
     </section>
   -->
     <!-- Contact Section -->
-    
+
     <?php include 'contact.php';?>
-    
+
 
     <!-- Block Button Call to Action
     <a href="https://wrapbootstrap.com/theme/vitality-multipurpose-one-page-theme-WB02K3KK3" class="btn btn-block btn-full-width">Buy Vitality Now!</a>
   -->
     <!-- Footer -->
-    
+
     <?php include 'footer.php';?>
 
     <!-- Backoffice  Modals -->
-    
+
     <?php include 'modal.php';?>
-    
-    
+
+
         <!-- Core Scripts -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
